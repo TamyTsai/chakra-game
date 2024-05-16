@@ -49,7 +49,7 @@ cd chakra-game
 ## 專案技術
 - HTML
 - CSS
-  -RWD
+  - RWD
 - JavaScript
   - jQuery v3.3.1
   - ES6
