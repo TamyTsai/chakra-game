@@ -1,19 +1,28 @@
-body div {
+body {
+  background-color: #f5f5f5;
+}
+
+body .content {
   text-align: center;
   margin-right: auto;
   margin-left: auto;
-  width:600px;
+  width: 50%;
   background-color: #ffdca5;
   padding: 20px;
   border-radius: 5%;
   border: dashed 5px #0b080842;
 }
 
+/* body .content .button {
+  display: flex;
+  flex-wrap: nowrap;
+} */
+
 #hitButton {
   display: block;
-  width: 300px;
+  width: 50%;
   text-align: center;
-  font-size: 40px;
+  font-size: 1.5em;
   text-decoration: none;
   color: white;
   padding: 30px;
@@ -31,5 +40,5 @@ body div {
 
 #result {
   display: block;
-  font-size: 2em;
+  font-size: 1.5em;
 }

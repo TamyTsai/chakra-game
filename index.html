@@ -5,14 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>集氣遊戲</title>
-  <script src="scripts/jquery-3.3.1.min.js"></script>  <!-- 引入jQuery 要注意 jQuery 最好是一開始就被載入，如果有使用其他人的 JavaScript 外掛，可能這些外掛也引用到 JQ，如果有必要必須安排 jQuery 放在這些會受影響的 JavaScript 外掛之前。通常都會擺放到 head 這裡，也有人會放在 body 裡面，只要確認所使用的 jQuery 代碼是在 JQuery.js 宣告之後出現即可。 -->
+  <script src="scripts/jquery-3.3.1.min.js"></script>  <!-- 引入jQuery，要注意 jQuery 最好是一開始就被載入，如果有使用其他人的 JavaScript 外掛，可能這些外掛也引用到 JQ，如果有必要，必須安排 jQuery 放在這些會受影響的 JavaScript 外掛之前。通常都會擺放到 head 這裡，也有人會放在 body 裡面，只要確認所使用的 jQuery 代碼是在 JQuery.js 宣告之後出現即可。 -->
   <link rel="stylesheet" href="styles/style.css"> <!-- 引入自己寫的CSS -->
 </head>
 <body>
-  <div>
-      <a href="#" id="hitButton">集氣</a>
-      <p id="hint">提示：要在 3 秒之內集氣 5 次以上才會成功</p>
-      <p id="result">集氣中...</p>
+  <div class="content">
+    <div class="button">
+      <a href="#" id="hitButton">凝聚查克拉</a>
+    </div>
+      <p id="hint">提示：要在 3 秒內點擊按鈕超過5次才能成功使出絕招</p>
+      <p id="result">凝聚中...</p>
   </div>
   <script src="scripts/script.js"></script> <!-- 引入自己寫的JavaScript -->
 </body>
