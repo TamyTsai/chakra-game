@@ -10,19 +10,22 @@
 ## 功能
 - 點擊「凝聚查克拉」按鈕可凝聚查克拉
 - 3秒內點擊按鈕達5次以上，即可成功使出螺旋丸招數
-- 3秒內未點擊按鈕達5次以上，則無法使出螺旋丸招數
+- 未於3秒內點擊按鈕達5次以上，則無法使出螺旋丸招數
 - 一進入遊戲頁面即開始倒數3秒
 - 已點擊次數將顯示於按鈕上
 
 ## 畫面
 ### 初始畫面
-<img width="843" alt="截圖 2024-05-16 初始畫面" src="https://github.com/TamyTsai/chakra-game/assets/97825677/6169546f-912c-4437-8786-3f37c744370b">
+<img width="828" alt="截圖 2024-05-16 初始畫面" src="https://github.com/TamyTsai/chakra-game/assets/97825677/55d3e3d7-8d32-4a23-826b-71d9e2ea4e91">
+
 
 ### 3秒內點擊按鈕達5次以上，成功施放招數
-<img width="833" alt="截圖 2024-05-16 凝聚成功" src="https://github.com/TamyTsai/chakra-game/assets/97825677/a3c95e6c-b147-42e2-999e-efb8d9664c22">
+<img width="820" alt="截圖 2024-05-16 凝聚成功" src="https://github.com/TamyTsai/chakra-game/assets/97825677/c29fda69-ccfd-4e12-ac89-923142f59f58">
 
-### 3秒內未點擊按鈕達5次以上，無法使出招數
-<img width="857" alt="截圖 2024-05-16 凝聚失敗" src="https://github.com/TamyTsai/chakra-game/assets/97825677/3ff2bc60-4632-4598-8632-bfa243bb6e7f">
+
+### 未於3秒內點擊按鈕達5次以上，無法使出招數
+<img width="823" alt="截圖 2024-05-16 凝聚失敗" src="https://github.com/TamyTsai/chakra-game/assets/97825677/3e95e76a-c086-46d8-a582-099836146f2e">
+
 
 
 ## 安裝
