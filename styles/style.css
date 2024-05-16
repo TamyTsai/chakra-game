@@ -1,0 +1,35 @@
+body div {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  width:600px;
+  background-color: #ffdca5;
+  padding: 20px;
+  border-radius: 5%;
+  border: dashed 5px #0b080842;
+}
+
+#hitButton {
+  display: block;
+  width: 300px;
+  text-align: center;
+  font-size: 40px;
+  text-decoration: none;
+  color: white;
+  padding: 30px;
+  background-color: #bf1010;
+  border-radius: 10px;
+  margin-right: auto; /* 置中 */
+  margin-left: auto; /* 置中 */
+  box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.5);
+}
+
+#hint {
+  display: block;
+  margin-top: 30px;
+}
+
+#result {
+  display: block;
+  font-size: 2em;
+}
