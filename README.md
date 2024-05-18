@@ -5,7 +5,7 @@
 - CSS中盡量將元素大小以相對單位設定，以達RWD效果
 - 使用ES6、jQuery使JavaScript語法變得簡潔（箭頭函式、簡化DOM控制等）
 - 採用UJS寫法，維持HTML簡潔
-- 運用AJAX設計遊戲機制
+- 運用AJAX promise設計遊戲機制
 
 ## 功能
 - 點擊「凝聚查克拉」按鈕可凝聚查克拉
