@@ -72,7 +72,7 @@ cd chakra-game
 - 部署：GitHub Pages
 - 版本控制：Git
 
-## 專案技術詳細說明
+## 使用技術詳細說明
 - 以HTML、CSS及JavaScript撰寫，為一頁式靜態網頁
 - CSS中盡量將元素大小以相對單位設定，以達RWD效果
 - 使用ES6、jQuery使JavaScript語法變得簡潔（箭頭函式、簡化DOM控制等）
